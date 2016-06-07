@@ -1,0 +1,16 @@
+Example for using Spring Data + Hibernate to connect to Oracle Db.
+
+Reference Links
+http://docs.spring.io/spring-data/jpa/docs/current/reference/html/#repositories.core-concepts
+http://docs.spring.io/spring-data/jpa/docs/current/reference/html/#repository-query-keywords
+
+
+Spring- MongoTemplate
+http://docs.spring.io/spring-data/mongodb/docs/1.2.x/reference/html/mongo.repositories.html
+http://docs.spring.io/spring-data/mongodb/docs/current/reference/html/
+
+Repository query keywords / naming conventions
+
+http://docs.spring.io/spring-data/jpa/docs/current/reference/html/
+http://docs.spring.io/spring-data/mongodb/docs/current/reference/html/
+
