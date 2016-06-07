@@ -11,7 +11,12 @@ http://docs.spring.io/spring-data/mongodb/docs/current/reference/html/
 http://docs.spring.io/spring-data/jpa/docs/current/reference/html/#repositories.multiple-modules.types
 
 Repository query keywords / naming conventions
+-------------------------------
 
 http://docs.spring.io/spring-data/jpa/docs/current/reference/html/
 http://docs.spring.io/spring-data/mongodb/docs/current/reference/html/
 
+@query annotation - mongoDb
+http://docs.spring.io/autorepo/docs/spring-data-mongodb/1.4.2.RELEASE/reference/html/mongo.repositories.html
+@query annotation - SQL
+https://spring.io/blog/2014/07/15/spel-support-in-spring-data-jpa-query-definitions
